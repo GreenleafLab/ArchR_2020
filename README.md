@@ -2,7 +2,7 @@
 
 ## **Link** : QQQ
 
-## Please cite : Granja JM et al., An integrative and scalable software package for single-cell chromatin accessibility analysis. Biorxiv (2020) <br/>
+## Please cite : Granja JM et al., An integrative and scalable software package for single-cell chromatin accessibility analysis. bioRxiv (2020) <br/>
 
 ![](Figure1.png)
 
