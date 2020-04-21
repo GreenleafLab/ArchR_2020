@@ -18,13 +18,15 @@
 
 # scATAC-seq Files
 
-### Satpathy*, Granja* et al 2019 - 
+### 10x Version1 vs NextGem - https://www.10xgenomics.com/solutions/single-cell-atac/
 
-### Granja*, Klemm*, McGinnis* et al 2019 - 
+### Satpathy*, Granja* et al 2019 - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE129785&holding=F1000&otool=stanford
 
-### Buenrostro et al 2018 - 
+### Granja*, Klemm*, McGinnis* et al 2019 - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE139369
 
-### Cusanovich et al 2018 - 
+### Buenrostro et al 2018 - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE96772
+
+### Cusanovich et al 2018 - http://atlas.gs.washington.edu/mouse-atac/data/
 
 # Additional Data Download Links
 
