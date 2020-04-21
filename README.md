@@ -28,6 +28,24 @@
 
 ### Cusanovich et al 2018 (Bam Files) - http://atlas.gs.washington.edu/mouse-atac/data/
 
+# Benchmarking Rmarkdowns
+
+### PBMC 10k -
+
+### PBMC 20k -
+
+### PBMC 30k -
+
+### PBMC 70k -
+
+### BMMC 30k -
+
+### Mouse Atlas 70k -
+
+**Note 1.** We included 1 replicate Rmarkdown for each of the steps.
+
+**Note 2.** We merged steps as described in the supplemental of the MS for clarity.
+
 # Additional Data Download Links
 
 ### These links may be moved if we can find a better host for better download speed
