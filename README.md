@@ -42,7 +42,7 @@
 
 ### Mouse Atlas 70k -
 
-**Note 1.** We included 1 replicate Rmarkdown for each of the steps.
+**Note 1.** We included 1 replicate Rmarkdown for the large computational setup since we have results for all softwares for each of the steps.
 
 **Note 2.** We merged steps as described in the supplemental of the MS for clarity.
 
