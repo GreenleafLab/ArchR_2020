@@ -18,13 +18,13 @@
 
 # scATAC-seq Files
 
-## Satpathy*, Granja* et al 2019 - 
+### Satpathy*, Granja* et al 2019 - 
 
-## Granja*, Klemm*, McGinnis* et al 2019 - 
+### Granja*, Klemm*, McGinnis* et al 2019 - 
 
-## Buenrostro et al 2018 - 
+### Buenrostro et al 2018 - 
 
-## Cusanovich et al 2018 - 
+### Cusanovich et al 2018 - 
 
 # Additional Data Download Links
 
