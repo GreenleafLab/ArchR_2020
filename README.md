@@ -18,29 +18,29 @@
 
 # scATAC-seq Files
 
-### 10x Version1 vs NextGem (Fragment Files) - https://www.10xgenomics.com/solutions/single-cell-atac/
+**10x Version1 vs NextGem (Fragment Files)** - https://www.10xgenomics.com/solutions/single-cell-atac/
 
-### Satpathy*, Granja* et al 2019 (Fragment Files) - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE129785&holding=F1000&otool=stanford
+**Satpathy*, Granja* et al 2019 (Fragment Files)** - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE129785&holding=F1000&otool=stanford
 
-### Granja*, Klemm*, McGinnis* et al 2019 (Fragment Files) - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE139369
+**Granja*, Klemm*, McGinnis* et al 2019 (Fragment Files)** - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE139369
 
-### Buenrostro et al 2018 (Bam Files) - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE96772
+**Buenrostro et al 2018 (Bam Files)** - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE96772
 
-### Cusanovich et al 2018 (Bam Files) - http://atlas.gs.washington.edu/mouse-atac/data/
+**Cusanovich et al 2018 (Bam Files)** - http://atlas.gs.washington.edu/mouse-atac/data/
 
 # Benchmarking Results (ArchR, SnapATAC, Signac)
 
-### PBMC 10k - https://github.com/GreenleafLab/ArchR_2020/tree/master/ArchR_Benchmarking/PBMC-10k
+**PBMC 10k** - https://github.com/GreenleafLab/ArchR_2020/tree/master/ArchR_Benchmarking/PBMC-10k
 
-### PBMC 20k - https://github.com/GreenleafLab/ArchR_2020/tree/master/ArchR_Benchmarking/PBMC-20k
+**PBMC 20k** - https://github.com/GreenleafLab/ArchR_2020/tree/master/ArchR_Benchmarking/PBMC-20k
 
-### PBMC 30k - https://github.com/GreenleafLab/ArchR_2020/tree/master/ArchR_Benchmarking/PBMC-30k
+**PBMC 30k** - https://github.com/GreenleafLab/ArchR_2020/tree/master/ArchR_Benchmarking/PBMC-30k
 
-### PBMC 70k - https://github.com/GreenleafLab/ArchR_2020/tree/master/ArchR_Benchmarking/PBMC-70k
+**PBMC 70k** - https://github.com/GreenleafLab/ArchR_2020/tree/master/ArchR_Benchmarking/PBMC-70k
 
-### BMMC 30k - https://github.com/GreenleafLab/ArchR_2020/tree/master/ArchR_Benchmarking/BMMC-30k
+**BMMC 30k** - https://github.com/GreenleafLab/ArchR_2020/tree/master/ArchR_Benchmarking/BMMC-30k
 
-### Mouse Atlas 70k - https://github.com/GreenleafLab/ArchR_2020/tree/master/ArchR_Benchmarking/MouseAtlas-70k/ArchR
+**Mouse Atlas 70k** - https://github.com/GreenleafLab/ArchR_2020/tree/master/ArchR_Benchmarking/MouseAtlas-70k/ArchR
 
 **Note 1.** We included 1 replicate Rmarkdown for the large computational setup since we have results for all softwares for each of the steps.
 
