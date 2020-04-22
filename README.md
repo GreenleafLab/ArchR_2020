@@ -10,11 +10,15 @@
 
 ## scATAC Analyses
 
-**scATAC_01** - 
+**ArchR_Make_Gene_Models.R** - Code for making individual gene score models with ArchR.
 
-**scATAC_02** - 
+**ArchR_Test_Gene_Score_Model_Aggregates.R** - Code for testing gene score models with aggregates of cells.
 
-**scATAC_03** - 
+**ArchR_PreProcess_Laptop_SimulatedPBMC_1M.R** - Code for benchmarking analysis of 1M Simulated PBMC.
+
+**ArchR_PreProcess_Laptop_LargeHeme_220k.R** - Code for benchmarking analysis of Large Hematopoeisis.
+
+**ArchR_PostAnalysis_Large_Heme_Analysis.R** - Code for advanced post analysis of Large Hematopoeisis.
 
 # scATAC-seq Files
 
