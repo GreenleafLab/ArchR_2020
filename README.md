@@ -8,7 +8,7 @@
 
 # Brief Descriptions of Analysis Scripts
 
-## scATAC Analyses
+## scATAC Analyses (See Code Folder)
 
 **ArchR_Make_Gene_Models.R** - Code for making individual gene score models with ArchR.
 
