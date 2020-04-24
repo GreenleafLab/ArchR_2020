@@ -24,9 +24,9 @@
 
 **10x Version1 vs NextGem (Fragment Files)** - https://www.10xgenomics.com/solutions/single-cell-atac/
 
-**Satpathy*, Granja* et al 2019 (Fragment Files)** - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE129785&holding=F1000&otool=stanford
+**Satpathy+, Granja+ et al 2019 (Fragment Files)** - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE129785&holding=F1000&otool=stanford
 
-**Granja*, Klemm*, McGinnis* et al 2019 (Fragment Files)** - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE139369
+**Granja+, Klemm+, McGinnis+ et al 2019 (Fragment Files)** - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE139369
 
 **Buenrostro et al 2018 (Bam Files)** - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE96772
 
