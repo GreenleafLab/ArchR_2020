@@ -1,6 +1,6 @@
 # ArchR: An integrative and scalable software package for single-cell chromatin accessibility analysis (Granja JM*, Corces MR*, et al. 2020)
 
-## **Link** : QQQ
+## **Link** : https://www.biorxiv.org/content/10.1101/2020.04.28.066498v1
 
 ## Please cite : Granja JM et al., An integrative and scalable software package for single-cell chromatin accessibility analysis. bioRxiv (2020) <br/>
 
