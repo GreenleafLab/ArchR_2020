@@ -64,9 +64,9 @@
 
 ## Large Hematopoiesis
 
-**ArchR Project Containing Arrow Files** : <br/>https://drive.google.com/file/d/1L8hOTLDxqdzgqY4hw_uXr5O2m8qd9Bdn/view?usp=sharing
+**ArchR Project Containing Arrow Files** : <br/>https://www.dropbox.com/s/sijf2votfej629t/Save-Large-Heme-ArchRProject.tar.gz?dl=0
 
-**scATAC-seq Hematopoeisis cell x peak Summarized Experiment** : <br/>https://drive.google.com/file/d/1zWFJes4z2uMOkgm4kEd7zffjlgBnlSxD/view?usp=sharing
+**scATAC-seq Hematopoeisis cell x peak Summarized Experiment** : <br/>https://www.dropbox.com/s/8ghfwumepftu3ll/SE-scATAC-Large-Heme-Peaks.rds?dl=0
 
-**scATAC-seq Hematopoeisis cell x motif Summarized Experiment** : <br/>https://drive.google.com/file/d/1RUOcJbxric6PF3Ilzx4622uS2Lbi8r31/view?usp=sharing
+**scATAC-seq Hematopoeisis cell x motif Summarized Experiment** : <br/>https://www.dropbox.com/s/owcathhdbcr23jq/SE-scATAC-Large-Heme-Motifs.rds?dl=0
 
